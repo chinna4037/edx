@@ -1,0 +1,16 @@
+{
+  "name": "edx-project",
+  "version": "1.0.0",
+  "description": "project for edx course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chinna",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "nodeman": "^1.1.2"
+  }
+}
